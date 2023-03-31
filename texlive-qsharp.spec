@@ -1,6 +1,6 @@
 Name:		texlive-qsharp
 Version:	49722
-Release:	1
+Release:	2
 Summary:	Syntax highlighting for the Q# language
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qsharp
