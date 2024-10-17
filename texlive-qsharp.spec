@@ -3,7 +3,7 @@ Version:	49722
 Release:	2
 Summary:	Syntax highlighting for the Q# language
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qsharp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/qsharp
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qsharp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qsharp.doc.r%{version}.tar.xz
